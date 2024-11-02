@@ -32,6 +32,8 @@ The SkinnyDipped website is a beautifully designed e-commerce platform that feat
 
 ## 🤸 Quick Start
 
+Follow these steps to set up the project locally on your machine.
+
 ## 📂 Cloning the Repository
 ```bash
 git clone https://github.com/avinash-8-tech/SKINNYDIPPED-WEBSITE.git
