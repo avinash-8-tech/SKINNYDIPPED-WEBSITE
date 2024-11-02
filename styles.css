@@ -43,7 +43,8 @@ body {
     background: linear-gradient(#fff, transparent);
     border-radius: 50%;
     position: fixed;
-    font-size: 5px;
+    top: 1.5%;
+    left: 0.5%;
     z-index: 1;
 }
 
